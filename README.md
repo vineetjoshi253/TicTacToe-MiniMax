@@ -11,6 +11,6 @@ There are two modes to play:
 
 The 2 players mode iteratively takes input from both the players, while making sure, if anyone has won or not.
 
-<img align="center" width="250" height="250" src="http://i1079.photobucket.com/albums/w508/vineetjoshi253/5_zps9cwajtnw.png">
+<img align="center" width="520" height="400" src="http://i1079.photobucket.com/albums/w508/vineetjoshi253/5_zps9cwajtnw.png">
 
 <img align="center" width="250" height="250" src="http://photobucket.com/gallery/http://s1079.photobucket.com/user/vineetjoshi253/media/5_zps9cwajtnw.png.html">
