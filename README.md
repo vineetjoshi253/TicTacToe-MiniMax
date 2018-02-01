@@ -19,7 +19,7 @@ The 2 players mode iteratively takes input from both the players, while making s
 The single player mode uses MiniMax algorithm to make the computer unbeatable. Even if the player plays the most optimal move everytime, the end result would be atmost a draw. 
 The gameplay of Single Player mode is show below.Every time you make a move, the computer plays automatically. 
 
-<img align="center" width="700" height="300" src="http://i1079.photobucket.com/albums/w508/vineetjoshi253/2_zpsffqrzutk.png">
+<img align="center" width="700" height="300" src="http://u.cubeupload.com/vineetjoshi253/4.png">
 <img align="center" width="700" height="300" src="http://i1079.photobucket.com/albums/w508/vineetjoshi253/5_zpsoxts2noj.png">
 
 </hr>
